@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/itssr07/itssr07.github.io)
 
-- 🌱 I’m currently learning **Django, React**
+- 🌱 I’m currently learning **python, React**
 
 - 👨‍💻 All of my projects are available at [itssr07.github.io](itssr07.github.io)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development,python**
 
 - 📫 How to reach me **ranjanshitanshu10@gmail.com**
 
