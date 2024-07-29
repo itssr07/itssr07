@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssr07&label=Profile%20views&color=0e75b6&style=flat" alt="itssr07" /> </p>
 
-- 🔭 I’m currently working on [Portfolio]([https://github.com/itssr07/itssr07.github.io](https://shitanshu-ranjan.vercel.app/))
+- 🔭 I’m currently working on [Portfolio]([https://github.com/itssr07/itssr07.github.io])
 
 - 🌱 I’m currently learning **python, React**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend Development,python**
 
-- 📫 How to reach me **ranjanshitanshu10@gmail.com (https://www.linkedin.com/in/itssr07/)**
+- 📫 How to reach me **ranjanshitanshu10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
