@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shitanshu Ranjan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssr07&label=Profile%20views&color=0e75b6&style=flat" alt="itssr07" /> </p>
 
 - 🔭 I’m currently working on [Portfolio]([https://github.com/itssr07/itssr07.github.io])
 
-- 🌱 I’m currently learning **python, React**
+- - 🔭 I’m a Team Lead at iB Arts Pvt. Ltd.
+
+- 🌱 I’m currently learning **python, React, Astro, Flutter**
 
 - 👨‍💻 All of my projects are available at [itssr07.github.io](itssr07.github.io)
 
-- 💬 Ask me about **Frontend Development,python**
+- 💬 Ask me about **Frontend Development,python, WordPress Development**
 
 - 📫 How to reach me **ranjanshitanshu10@gmail.com**
 
